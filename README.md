@@ -65,7 +65,7 @@ O **FYS Finder** é um agente de IA (copiloto de vendas) que **analisa dados con
 ## 📚 Recursos do Projeto
 
 ###  Base de Conhecimento
-🔗 [Base de conhecimento utilizada](https://github.com/DaneAlbuquerque/copiloto-vendas-ia-atendimento-cliente-fys/tree/main/knowledge)
+🔗 [Base de conhecimento utilizada](https://github.com/DaneAlbuquerque/copiloto-vendas-ia-atendimento-cliente-fys/blob/main/knowledge/base_fys.md)
 
 ###  Prompt do FYS Finder
 🔗 [Acesse o prompt](https://github.com/DaneAlbuquerque/copiloto-vendas-ia-atendimento-cliente-fys/blob/main/prompt.md)
